@@ -2,8 +2,6 @@
 
 ### Viva La Vida
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LSL-00&label=Profile views&color=0e75b6&style=flat" alt="LSL-00" /> </p>
-
 - 🔭 I'm currently working on **Pose-Guided Vehicle Image**
 
 - 🌱 I'm currently learning **SubGraphRAG, LightRAG &KG**
